@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>438CED9D-7D30-4FBA-8532-8FA0F8D36B5E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Multi_Choice</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>96C4B22F8CC59A1FB079CF30039A9DE2B0AB2469</key>
+		<string>https://github.com/lujianfeiccie/iOS_multi_choice.git</string>
+		<key>ED8CB6FB6025648CD55E62ACFCD2A358F46C5526</key>
+		<string>https://github.com/lujianfeiccie/iOS_multi_choice_ob.git</string>
+		<key>FDE6C517A7EEABAC1519EE673D7F7E201907F413</key>
+		<string>https://github.com/lujianfeiccie/iOS_multi_choice_management.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Multi_Choice.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>96C4B22F8CC59A1FB079CF30039A9DE2B0AB2469</key>
+		<string>../../../iOS_multi_choice</string>
+		<key>ED8CB6FB6025648CD55E62ACFCD2A358F46C5526</key>
+		<string>../../../iOS_multi_choice_ob</string>
+		<key>FDE6C517A7EEABAC1519EE673D7F7E201907F413</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lujianfeiccie/iOS_multi_choice_management.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FDE6C517A7EEABAC1519EE673D7F7E201907F413</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>96C4B22F8CC59A1FB079CF30039A9DE2B0AB2469</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS_multi_choice</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FDE6C517A7EEABAC1519EE673D7F7E201907F413</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS_multi_choice_management</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ED8CB6FB6025648CD55E62ACFCD2A358F46C5526</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS_multi_choice_ob</string>
+		</dict>
+	</array>
+</dict>
+</plist>
