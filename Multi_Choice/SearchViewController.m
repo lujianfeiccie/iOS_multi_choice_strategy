@@ -180,6 +180,16 @@
         
         next.m_array_detail = (NSMutableArray*)questions;
         next.m_currentIndex = row;
+        next.m_title = @"名词解释搜索结果";
+        [app.navController pushViewController:next animated:YES];
+        
+    }
+    else if (questions.m_type == TYPE_Calc)
+    {
+        next = [ViewControllerFactory getShortAnswerOrCalcDetail:self];
+        
+        next.m_array_detail = (NSMutableArray*)questions;
+        next.m_currentIndex = row;
         next.m_title = @"计算题搜索结果";
         [app.navController pushViewController:next animated:YES];
         
